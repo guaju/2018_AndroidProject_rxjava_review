@@ -10,12 +10,12 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="我是小红"
+        android:text="我是xiaomingming"
         />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="我是小明"
+        android:text="我是xiaomingming"
         />
 
 </LinearLayout>
